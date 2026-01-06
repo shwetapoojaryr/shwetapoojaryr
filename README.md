@@ -11,7 +11,7 @@ fun fact
 
 I specialize in working at the intersection of data, AI, and business strategy. 
 
-My experience includes:
+### My experience includes:
 
 Data cleaning & preprocessing, Exploratory Data Analysis (EDA), Feature engineering, Data visualization & reporting, AI data curation, annotation & response quality evaluation, Turning AI-driven insights into business value
 

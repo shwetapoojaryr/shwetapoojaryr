@@ -5,7 +5,7 @@ fun fact
 -->
 ## 👋 Hi, I’m a Data Analyst Who Loves Turning Data Into Decisions
 
-### Welcome to my GitHub! I’m Former Data Curation & Labeling Team Lead, detail-oriented and an aspiring analytical professional with experience in AI data curation, analytics, and business intelligence. I enjoy digging into complex datasets, uncovering insights, and transforming them into clear, actionable recommendations that support smart business decisions.
+### Welcome to my GitHub! I’m Former Data Curation & Labeling Team Lead, a detail-oriented professional, and an aspiring data analyst with experience in AI data curation, analytics, and business intelligence. I enjoy digging into complex datasets, uncovering insights, and transforming them into clear, actionable recommendations that support smart business decisions.
 
 ### What I Do
 

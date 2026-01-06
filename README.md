@@ -11,49 +11,49 @@ fun fact
 
 I specialize in working at the intersection of data, AI, and business strategy. My experience includes:
 
-Data cleaning & preprocessing
+ Data cleaning & preprocessing
 
-Exploratory Data Analysis (EDA)
+ Exploratory Data Analysis (EDA)
 
-Feature engineering
+ Feature engineering
 
-Data visualization & reporting
+ Data visualization & reporting
 
-AI data curation, annotation & response quality evaluation
+ AI data curation, annotation & response quality evaluation
 
-Turning AI-driven insights into business value
+ Turning AI-driven insights into business value
 
 ### Industry Experience
 
 I’ve analyzed large-scale datasets across multiple domains, including:
 
-E-commerce – customer behavior, performance metrics, and optimization
+ E-commerce – customer behavior, performance metrics, and optimization
 
-Healthcare – data-driven insights to support decision-making
+ Healthcare – data-driven insights to support decision-making
 
-HR Analytics – workforce trends, performance, and decision support
+ HR Analytics – workforce trends, performance, and decision support
 
 ### Tools & Technologies
 
 Here are some of the tools I use to bring data to life:
 
-Languages & Databases: Python, SQL
+ Languages & Databases: Python, SQL
 
-Visualization & BI: Power BI, Tableau
+ Visualization & BI: Power BI, Tableau
 
-AI Tools: ChatGPT, Gemini
+ AI Tools: ChatGPT, Gemini
 
-Analytics Skills: Data cleaning, EDA, feature engineering, reporting
+ Analytics Skills: Data cleaning, EDA, feature engineering, reporting
 
 ### Projects
 
 Here are some of the projects where I apply analytics to real-world problems:
 
-Project Name – Short description of the problem and key insights
+ Project Name – Short description of the problem and key insights
 
-Project Name – Focus on visualization, trends, or business impact
+ Project Name – Focus on visualization, trends, or business impact
 
-AI/Data Project – Data curation, evaluation, or AI-driven insights
+ AI/Data Project – Data curation, evaluation, or AI-driven insights
 
 👉 Explore my repositories below to see my work in action.
 
@@ -61,22 +61,24 @@ AI/Data Project – Data curation, evaluation, or AI-driven insights
 
 I’m currently seeking a Data Analyst role where I can:
 
-Support data-driven strategies
+ Support data-driven strategies
 
-Optimize processes and enhance customer experience
+ Optimize processes and enhance customer experience
 
-Deliver insights that drive measurable business impact
+ Deliver insights that drive measurable business impact
 
 ### My Philosophy
 
-Data is only powerful when it leads to better decisions.
-I focus on clarity, accuracy, and impact in every analysis.
+ Data is only powerful when it leads to better decisions.
+
+ I focus on clarity, accuracy, and impact in every analysis.
+
 ### Let’s Connect
 
-💼 LinkedIn: (add link)
+ LinkedIn: (https://www.linkedin.com/in/shweta-p-176861295/)
 
-📧 Email: (add email)
+ Email: (shwetapoojaryr@gmail.com)
 
-🌐 Portfolio (optional): (add link)
+ Portfolio: <!-- (add link)-->
 
 Feel free to explore my repositories or reach out—happy to connect!

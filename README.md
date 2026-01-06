@@ -1,8 +1,10 @@
 ## Hi there 👋
 
+<!--
 
 **shwetapoojaryr/shwetapoojaryr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+fun fact
+-->
 ### I am a detail-oriented and analytical professional with expertise in AI data curation and labeling, data analytics, business intelligence, AI response quality evaluation, AI annotation, and AI-driven insights. 
  
 ### My experience spans data preprocessing, exploratory analysis, feature engineering, and report generation, enabling me to deliver insights that drive strategic initiatives.
@@ -16,6 +18,4 @@
 ### Proficient in data cleaning, exploratory analysis, feature engineering, and visualization using Python, SQL, Power BI, and Tableau.
 
 ### How to reach me: 
-<!--
-fun fact
--->
+

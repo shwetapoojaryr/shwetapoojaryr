@@ -5,23 +5,23 @@ fun fact
 -->
 ## 👋 Hi, I’m a Data Analyst Who Loves Turning Data Into Decisions
 
-Welcome to my GitHub! I’m a detail-oriented and analytical professional with a strong background in AI data curation, analytics, and business intelligence. I enjoy digging into complex datasets, uncovering insights, and transforming them into clear, actionable recommendations that support smart decision-making.
+Welcome to my GitHub! I’m a detail-oriented and analytical professional with experience in AI data curation, analytics, and business intelligence. I enjoy digging into complex datasets, uncovering insights, and transforming them into clear, actionable recommendations that support smart business decisions.
 
 ### What I Do
 
 I specialize in working at the intersection of data, AI, and business strategy. My experience includes:
 
-Data Cleaning & Preprocessing – turning raw data into analysis-ready datasets
+Data cleaning & preprocessing
 
-Exploratory Data Analysis (EDA) – uncovering patterns, trends, and anomalies
+Exploratory Data Analysis (EDA)
 
-Feature Engineering – creating meaningful variables that improve insights
+Feature engineering
 
-Data Visualization & Reporting – telling stories with data using dashboards and reports
+Data visualization & reporting
 
-AI Data Curation & Annotation – improving AI response quality and performance
+AI data curation, annotation & response quality evaluation
 
-AI Evaluation & Insights – assessing and enhancing AI-generated outputs
+Turning AI-driven insights into business value
 
 ### Industry Experience
 
@@ -29,7 +29,7 @@ I’ve analyzed large-scale datasets across multiple domains, including:
 
 E-commerce – customer behavior, performance metrics, and optimization
 
-Healthcare – data-driven insights to support better outcomes
+Healthcare – data-driven insights to support decision-making
 
 HR Analytics – workforce trends, performance, and decision support
 
@@ -45,16 +45,38 @@ AI Tools: ChatGPT, Gemini
 
 Analytics Skills: Data cleaning, EDA, feature engineering, reporting
 
+### Projects
+
+Here are some of the projects where I apply analytics to real-world problems:
+
+📊 Project Name – Short description of the problem and key insights
+
+📈 Project Name – Focus on visualization, trends, or business impact
+
+🤖 AI/Data Project – Data curation, evaluation, or AI-driven insights
+
+👉 Explore my repositories below to see my work in action.
+
 ### What I’m Looking For
 
 I’m currently seeking a Data Analyst role where I can:
 
-Apply my analytical mindset to real-world business challenges
+Support data-driven strategies
 
-Support data-driven strategies in a dynamic, growth-oriented environment
+Optimize processes and enhance customer experience
 
-Optimize processes, enhance customer experience, and drive impact through insights
+Deliver insights that drive measurable business impact
 
 ### My Philosophy
 
 Data is only powerful when it leads to better decisions.
+I focus on clarity, accuracy, and impact in every analysis.
+### Let’s Connect
+
+💼 LinkedIn: (add link)
+
+📧 Email: (add email)
+
+🌐 Portfolio (optional): (add link)
+
+Feel free to explore my repositories or reach out—happy to connect!

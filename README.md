@@ -55,6 +55,10 @@ I’m currently seeking a Data Analyst role where I can:
 
  Portfolio: <!-- (add link)-->
 
-Here are some of the projects where I have applied analytics to real-world problems
+Here are some of the projects where I have applied analytics to real-world problems :
+https://github.com/shwetapoojaryr/Customer-Shopping-Behaviour-Analysis-Python-SQL-PowerBI
+https://github.com/shwetapoojaryr/Purchasing-Pattern-Analysis-Python-PowerBI-
+https://github.com/shwetapoojaryr/Employee-Performance---Retention-Analysis-Python-PowerBI
+https://github.com/shwetapoojaryr/Healthcare-Analysis---MYSQL
 
 Feel free to explore my repositories or reach out—happy to connect!

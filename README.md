@@ -50,9 +50,7 @@ Here are some of the projects where I apply analytics to real-world problems:
 
 I’m currently seeking a Data Analyst role where I can:
 
- Support data-driven strategies
- Optimize processes and enhance customer experience
- Deliver insights that drive measurable business impact
+ Support data-driven strategies,  Optimize processes and enhance customer experience,  Deliver insights that drive measurable business impact
 
 ### My Philosophy
 

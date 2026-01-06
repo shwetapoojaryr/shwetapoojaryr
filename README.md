@@ -12,15 +12,10 @@ fun fact
 I specialize in working at the intersection of data, AI, and business strategy. My experience includes:
 
  Data cleaning & preprocessing
-
  Exploratory Data Analysis (EDA)
-
  Feature engineering
-
  Data visualization & reporting
-
  AI data curation, annotation & response quality evaluation
-
  Turning AI-driven insights into business value
 
 ### Industry Experience
@@ -35,7 +30,7 @@ I’ve analyzed large-scale datasets across multiple domains, including:
 
 ### Tools & Technologies
 
-Here are some of the tools I use to bring data to life:
+Here are some of the tools I use :
 
  Languages & Databases: Python, SQL
 
@@ -55,16 +50,13 @@ Here are some of the projects where I apply analytics to real-world problems:
 
  AI/Data Project – Data curation, evaluation, or AI-driven insights
 
-👉 Explore my repositories below to see my work in action.
 
 ### What I’m Looking For
 
 I’m currently seeking a Data Analyst role where I can:
 
  Support data-driven strategies
-
  Optimize processes and enhance customer experience
-
  Deliver insights that drive measurable business impact
 
 ### My Philosophy

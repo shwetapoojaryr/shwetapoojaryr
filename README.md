@@ -7,7 +7,7 @@ fun fact
 
 ### Welcome to my GitHub! I’m a Former Data Curation & Labeling Team Lead, a detail-oriented professional, and an aspiring data analyst with experience in AI data curation, analytics, and business intelligence. I enjoy digging into complex datasets, uncovering insights, and transforming them into clear, actionable recommendations that support smart business decisions.
 
-### What I Do
+### What I Do:
 
 I specialize in working at the intersection of data, AI, and business strategy. 
 
@@ -15,7 +15,7 @@ I specialize in working at the intersection of data, AI, and business strategy.
 
 Data cleaning & preprocessing, Exploratory Data Analysis (EDA), Feature engineering, Data visualization & reporting, AI data curation, annotation & response quality evaluation, Turning AI-driven insights into business value
 
-### Industry Experience
+### Industry Experience:
 
 I’ve analyzed large-scale datasets across multiple domains, including:
 
@@ -25,7 +25,7 @@ I’ve analyzed large-scale datasets across multiple domains, including:
 
  HR Analytics – workforce trends, performance, and decision support
 
-### Tools & Technologies I use :
+### Tools & Technologies I use:
 
  Languages & Databases: Python, SQL
 
@@ -35,19 +35,19 @@ I’ve analyzed large-scale datasets across multiple domains, including:
 
  Analytics Skills: Data cleaning, EDA, feature engineering, reporting
 
-### What I’m Looking For
+### What I’m Looking For:
 
 I’m currently seeking a Data Analyst role where I can:
 
  Support data-driven strategies,  Optimize processes and enhance customer experience,  Deliver insights that drive measurable business impact
 
-### My Philosophy
+### My Philosophy:
 
  Data is only powerful when it leads to better decisions.
 
  I focus on clarity, accuracy, and impact in every analysis.
 
-### Let’s Connect
+### Let’s Connect:
 
  LinkedIn: (https://www.linkedin.com/in/shweta-p-176861295/)
 
@@ -55,7 +55,7 @@ I’m currently seeking a Data Analyst role where I can:
 
  Portfolio: <!-- (add link)-->
 
-Here are some of the projects where I have applied analytics to real-world problems :
+### Here are some of the projects where I have applied analytics to real-world problems:
 
 https://github.com/shwetapoojaryr/Customer-Shopping-Behaviour-Analysis-Python-SQL-PowerBI
 
@@ -65,4 +65,4 @@ https://github.com/shwetapoojaryr/Employee-Performance---Retention-Analysis-Pyth
 
 https://github.com/shwetapoojaryr/Healthcare-Analysis---MYSQL
 
-Feel free to explore my repositories or reach out—happy to connect!
+### Feel free to explore my repositories or reach out—happy to connect!

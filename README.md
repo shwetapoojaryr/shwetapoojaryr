@@ -7,7 +7,7 @@ fun fact
 
 Welcome to my GitHub! I’m a detail-oriented and analytical professional with a strong background in AI data curation, analytics, and business intelligence. I enjoy digging into complex datasets, uncovering insights, and transforming them into clear, actionable recommendations that support smart decision-making.
 
-What I Do
+### What I Do
 
 I specialize in working at the intersection of data, AI, and business strategy. My experience includes:
 
@@ -23,7 +23,7 @@ AI Data Curation & Annotation – improving AI response quality and performance
 
 AI Evaluation & Insights – assessing and enhancing AI-generated outputs
 
-Industry Experience
+### Industry Experience
 
 I’ve analyzed large-scale datasets across multiple domains, including:
 
@@ -33,7 +33,7 @@ Healthcare – data-driven insights to support better outcomes
 
 HR Analytics – workforce trends, performance, and decision support
 
-Tools & Technologies
+### Tools & Technologies
 
 Here are some of the tools I use to bring data to life:
 
@@ -45,7 +45,7 @@ AI Tools: ChatGPT, Gemini
 
 Analytics Skills: Data cleaning, EDA, feature engineering, reporting
 
-What I’m Looking For
+### What I’m Looking For
 
 I’m currently seeking a Data Analyst role where I can:
 
@@ -55,6 +55,6 @@ Support data-driven strategies in a dynamic, growth-oriented environment
 
 Optimize processes, enhance customer experience, and drive impact through insights
 
-My Philosophy
+### My Philosophy
 
 Data is only powerful when it leads to better decisions.

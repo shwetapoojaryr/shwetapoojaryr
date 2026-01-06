@@ -11,7 +11,9 @@ fun fact
 
 I specialize in working at the intersection of data, AI, and business strategy. 
 
-My experience includes: Data cleaning & preprocessing, Exploratory Data Analysis (EDA), Feature engineering, Data visualization & reporting, AI data curation, annotation & response quality evaluation, Turning AI-driven insights into business value
+My experience includes:
+
+Data cleaning & preprocessing, Exploratory Data Analysis (EDA), Feature engineering, Data visualization & reporting, AI data curation, annotation & response quality evaluation, Turning AI-driven insights into business value
 
 ### Industry Experience
 
@@ -23,9 +25,7 @@ I’ve analyzed large-scale datasets across multiple domains, including:
 
  HR Analytics – workforce trends, performance, and decision support
 
-### Tools & Technologies
-
-Here are some of the tools I use :
+### Tools & Technologies I use :
 
  Languages & Databases: Python, SQL
 

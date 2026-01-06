@@ -35,17 +35,6 @@ Here are some of the tools I use :
 
  Analytics Skills: Data cleaning, EDA, feature engineering, reporting
 
-### Projects
-
-Here are some of the projects where I apply analytics to real-world problems:
-
- Project Name – Short description of the problem and key insights
-
- Project Name – Focus on visualization, trends, or business impact
-
- AI/Data Project – Data curation, evaluation, or AI-driven insights
-
-
 ### What I’m Looking For
 
 I’m currently seeking a Data Analyst role where I can:
@@ -65,5 +54,7 @@ I’m currently seeking a Data Analyst role where I can:
  Email: (shwetapoojaryr@gmail.com)
 
  Portfolio: <!-- (add link)-->
+
+Here are some of the projects where I have applied analytics to real-world problems
 
 Feel free to explore my repositories or reach out—happy to connect!

@@ -5,7 +5,7 @@ fun fact
 -->
 ## 👋 Hi, I’m a Data Analyst Who Loves Turning Data Into Decisions
 
-Welcome to my GitHub! I’m a detail-oriented and analytical professional with experience in AI data curation, analytics, and business intelligence. I enjoy digging into complex datasets, uncovering insights, and transforming them into clear, actionable recommendations that support smart business decisions.
+##### Welcome to my GitHub! I’m a detail-oriented and analytical professional with experience in AI data curation, analytics, and business intelligence. I enjoy digging into complex datasets, uncovering insights, and transforming them into clear, actionable recommendations that support smart business decisions.
 
 ### What I Do
 
@@ -49,11 +49,11 @@ Analytics Skills: Data cleaning, EDA, feature engineering, reporting
 
 Here are some of the projects where I apply analytics to real-world problems:
 
-📊 Project Name – Short description of the problem and key insights
+Project Name – Short description of the problem and key insights
 
-📈 Project Name – Focus on visualization, trends, or business impact
+Project Name – Focus on visualization, trends, or business impact
 
-🤖 AI/Data Project – Data curation, evaluation, or AI-driven insights
+AI/Data Project – Data curation, evaluation, or AI-driven insights
 
 👉 Explore my repositories below to see my work in action.
 

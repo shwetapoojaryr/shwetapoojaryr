@@ -31,7 +31,7 @@ I’ve analyzed large-scale datasets across multiple domains, including:
 
  Visualization & BI: Power BI, Tableau
 
- AI Tools: ChatGPT, Gemini
+ AI Tools: ChatGPT, Gemini, Perplexity, Adobe Firefly, Microsoft Copilot, Blackbox AI, Invieo, Beatoven, Starry AI, Emily
 
  Analytics Skills: Data cleaning, EDA, feature engineering, reporting
 
